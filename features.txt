@@ -1,0 +1,1 @@
+From what I was able to finish, I added items to the game and made it so that they can hold more then one item. I also added a player class that holds the location they are at and can take items.  
